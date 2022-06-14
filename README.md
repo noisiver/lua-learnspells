@@ -1,5 +1,5 @@
 # Learn Spells
-This script will give players new spells when leveling up or when entering the world.
+This script will give players new spells when leveling up and when entering the world.
 
 The spells included are class spells, talent ranks, proficiencies and mounts.
 
